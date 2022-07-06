@@ -1,0 +1,10 @@
+{
+  "text-background-dark1": [10, 10, 10],
+  "text-background-dark2": [15, 15, 15],
+  "text-background-dark3": [25, 25, 25],
+  "text-background-light1": [255, 255, 255],
+  "text-background-light2": [233, 229, 220],
+  "spotify-background": [35, 35, 35],
+  "accent1": [211, 72, 23],
+  "accent2": [155, 45, 31]
+}

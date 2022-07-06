@@ -1,0 +1,1302 @@
+{
+  "href": "https://api.spotify.com/v1/users/maubeend/playlists?offset=0&limit=50",
+  "items": [
+    {
+      "collaborative": false,
+      "description": "Geef dat feestje herkenning met bekende hits in een remixjasje!",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1DX8EyMj5jl6Tz"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8EyMj5jl6Tz",
+      "id": "37i9dQZF1DX8EyMj5jl6Tz",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706f0000000376ae07d8463069e567220633",
+          "width": null
+        }
+      ],
+      "name": "The Remix Party",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "MTY1NTQxNjgwMCwwMDAwMDI1ODAwMDAwMTgxNmU4N2MzZjgwMDAwMDE3NjUxMTU1OTg3",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1DX8EyMj5jl6Tz/tracks",
+        "total": 117
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1DX8EyMj5jl6Tz"
+    },
+    {
+      "collaborative": false,
+      "description": "A blend of music for maubeend, _yv, and michelle9374. Updates daily.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1EJwmfYrtVNnge"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJwmfYrtVNnge",
+      "id": "37i9dQZF1EJwmfYrtVNnge",
+      "images": [
+        {
+          "height": null,
+          "url": "https://blend-playlist-covers.spotifycdn.com/group-blends-v1/group-blend-blue-1-LARGE-en.jpg",
+          "width": null
+        }
+      ],
+      "name": "michelle9374 + _yv + maubeend",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "MCwwMDAwMDAwMDYyMDc3ZGNmMWNlNzIzMWY0Y2RjNDlkODM2ZGRmNDVl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJwmfYrtVNnge/tracks",
+        "total": 0
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1EJwmfYrtVNnge"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/0aPYI7jWj6iqlqvnYePA4B"
+      },
+      "href": "https://api.spotify.com/v1/playlists/0aPYI7jWj6iqlqvnYePA4B",
+      "id": "0aPYI7jWj6iqlqvnYePA4B",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b273527e793a2461e171bfd0818eab67616d0000b27380c23aba3e018f5463bdf191ab67616d0000b273c237ac1410ffd6cfef5ac8e6ab67616d0000b273d040bc5b46915b49a64d7b1d",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b273527e793a2461e171bfd0818eab67616d0000b27380c23aba3e018f5463bdf191ab67616d0000b273c237ac1410ffd6cfef5ac8e6ab67616d0000b273d040bc5b46915b49a64d7b1d",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b273527e793a2461e171bfd0818eab67616d0000b27380c23aba3e018f5463bdf191ab67616d0000b273c237ac1410ffd6cfef5ac8e6ab67616d0000b273d040bc5b46915b49a64d7b1d",
+          "width": 60
+        }
+      ],
+      "name": "Good old EDM",
+      "owner": {
+        "display_name": "maubeend",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/maubeend"
+        },
+        "href": "https://api.spotify.com/v1/users/maubeend",
+        "id": "maubeend",
+        "type": "user",
+        "uri": "spotify:user:maubeend"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTYsNTI5ZTFhYTdkYzdkMDhhNTc2MDE2YjhiYmI5NmYzMDZjNzFjMmU3Mg==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/0aPYI7jWj6iqlqvnYePA4B/tracks",
+        "total": 12
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:0aPYI7jWj6iqlqvnYePA4B"
+    },
+    {
+      "collaborative": false,
+      "description": "A blend of music for maubeend and Steef. Updates daily.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1EJw7p7UVz5TpI"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJw7p7UVz5TpI",
+      "id": "37i9dQZF1EJw7p7UVz5TpI",
+      "images": [
+        {
+          "height": null,
+          "url": "https://blend-playlist-covers.spotifycdn.com/v2/blend_LARGE-forest-pink-en.jpg",
+          "width": null
+        }
+      ],
+      "name": "Steef + maubeend",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "MCwwMDAwMDAwMGJlYWQxNDVjNTNmYmQ4N2QwMzAxMTQ4NGNhOWJjMzA5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJw7p7UVz5TpI/tracks",
+        "total": 0
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1EJw7p7UVz5TpI"
+    },
+    {
+      "collaborative": true,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/2cyfNb4aO7uVz100UABp2f"
+      },
+      "href": "https://api.spotify.com/v1/playlists/2cyfNb4aO7uVz100UABp2f",
+      "id": "2cyfNb4aO7uVz100UABp2f",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b2731c08bca073e89ae32c68ffaaab67616d0000b273370c12f82872c9cfaee80193ab67616d0000b2734fc70ffe01a56e966101b140ab67616d0000b27367ff87e2839c5c93bb6e6a6a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b2731c08bca073e89ae32c68ffaaab67616d0000b273370c12f82872c9cfaee80193ab67616d0000b2734fc70ffe01a56e966101b140ab67616d0000b27367ff87e2839c5c93bb6e6a6a",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b2731c08bca073e89ae32c68ffaaab67616d0000b273370c12f82872c9cfaee80193ab67616d0000b2734fc70ffe01a56e966101b140ab67616d0000b27367ff87e2839c5c93bb6e6a6a",
+          "width": 60
+        }
+      ],
+      "name": "Children's Top 100's 2021",
+      "owner": {
+        "display_name": "ZiePeregrine",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/xpbop5yju6h24ii0iddvwenof"
+        },
+        "href": "https://api.spotify.com/v1/users/xpbop5yju6h24ii0iddvwenof",
+        "id": "xpbop5yju6h24ii0iddvwenof",
+        "type": "user",
+        "uri": "spotify:user:xpbop5yju6h24ii0iddvwenof"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "MjAsMjI2MzJhZDU1ZDNjYjA4YzAwMjdhNDVjMzdhM2U4NzdhOWE1NTczZA==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/2cyfNb4aO7uVz100UABp2f/tracks",
+        "total": 692
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:2cyfNb4aO7uVz100UABp2f"
+    },
+    {
+      "collaborative": true,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6GDUCz9PRsoYURIHkWvdlV"
+      },
+      "href": "https://api.spotify.com/v1/playlists/6GDUCz9PRsoYURIHkWvdlV",
+      "id": "6GDUCz9PRsoYURIHkWvdlV",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b2733fb046c10a3ffad78f809e06ab67616d0000b2736b34e77755ef57726a3bb4b4ab67616d0000b2737158ec602fe6e8165cae6091ab67616d0000b273f5aba3392389512e824d7b2a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b2733fb046c10a3ffad78f809e06ab67616d0000b2736b34e77755ef57726a3bb4b4ab67616d0000b2737158ec602fe6e8165cae6091ab67616d0000b273f5aba3392389512e824d7b2a",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b2733fb046c10a3ffad78f809e06ab67616d0000b2736b34e77755ef57726a3bb4b4ab67616d0000b2737158ec602fe6e8165cae6091ab67616d0000b273f5aba3392389512e824d7b2a",
+          "width": 60
+        }
+      ],
+      "name": "Children's Top 100's 2020",
+      "owner": {
+        "display_name": "maubeend",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/maubeend"
+        },
+        "href": "https://api.spotify.com/v1/users/maubeend",
+        "id": "maubeend",
+        "type": "user",
+        "uri": "spotify:user:maubeend"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "NTYsMjVkOTdmYzAxZmRlMDVkNTc3MTQzZTI5ZWJmY2RhYmU1YzAxYTdlMA==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/6GDUCz9PRsoYURIHkWvdlV/tracks",
+        "total": 866
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:6GDUCz9PRsoYURIHkWvdlV"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/3VZnnayrUJ21EgIlPWq8Kf"
+      },
+      "href": "https://api.spotify.com/v1/playlists/3VZnnayrUJ21EgIlPWq8Kf",
+      "id": "3VZnnayrUJ21EgIlPWq8Kf",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b273165b294e87c0750043cff223ab67616d0000b273aae8715a29127863b5729a9dab67616d0000b273b48ca7ffe6f80715001d98c4ab67616d0000b273e12fbd85de8fef4bb3578ca3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b273165b294e87c0750043cff223ab67616d0000b273aae8715a29127863b5729a9dab67616d0000b273b48ca7ffe6f80715001d98c4ab67616d0000b273e12fbd85de8fef4bb3578ca3",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b273165b294e87c0750043cff223ab67616d0000b273aae8715a29127863b5729a9dab67616d0000b273b48ca7ffe6f80715001d98c4ab67616d0000b273e12fbd85de8fef4bb3578ca3",
+          "width": 60
+        }
+      ],
+      "name": "22 Nov 2021",
+      "owner": {
+        "display_name": "maubeend",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/maubeend"
+        },
+        "href": "https://api.spotify.com/v1/users/maubeend",
+        "id": "maubeend",
+        "type": "user",
+        "uri": "spotify:user:maubeend"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MjQsNTRhYTkxZWE1NGZjNGUyMDdmZGI0ZTFiYzg0N2IxZjRkZDhmOTRiOA==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/3VZnnayrUJ21EgIlPWq8Kf/tracks",
+        "total": 23
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:3VZnnayrUJ21EgIlPWq8Kf"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/0XL7QO8u6gH5K55pF5fYJi"
+      },
+      "href": "https://api.spotify.com/v1/playlists/0XL7QO8u6gH5K55pF5fYJi",
+      "id": "0XL7QO8u6gH5K55pF5fYJi",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebbd1eaba9ccf978f0f80312269",
+          "width": null
+        }
+      ],
+      "name": "Mauro\u2019s Roadtrip Services ",
+      "owner": {
+        "display_name": "maubeend",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/maubeend"
+        },
+        "href": "https://api.spotify.com/v1/users/maubeend",
+        "id": "maubeend",
+        "type": "user",
+        "uri": "spotify:user:maubeend"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "ODMsMjU4OGFiZjc5MjczMjM1ZDI3YzAzMjdhMjAwYTgzMjZmNTc0ZjExYQ==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/0XL7QO8u6gH5K55pF5fYJi/tracks",
+        "total": 52
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:0XL7QO8u6gH5K55pF5fYJi"
+    },
+    {
+      "collaborative": false,
+      "description": "Catch all the latest music from artists you follow, plus new singles picked for you. Updates every Friday.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZEVXblhlZI6mJp68"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXblhlZI6mJp68",
+      "id": "37i9dQZEVXblhlZI6mJp68",
+      "images": [
+        {
+          "height": null,
+          "url": "https://newjams-images.scdn.co/v3/release-radar/ab6761610000e5eb5bdaa37d53954e4333e0c540/en/large",
+          "width": null
+        }
+      ],
+      "name": "Release Radar",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "MCwwMDAwMDAwMDk3MjBlMjU5NjZmMGUyMmQzNDQ2NTU3ZjZhMDJhMTVj",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXblhlZI6mJp68/tracks",
+        "total": 30
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZEVXblhlZI6mJp68"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/78dVgCqP7PToxvp40FelOP"
+      },
+      "href": "https://api.spotify.com/v1/playlists/78dVgCqP7PToxvp40FelOP",
+      "id": "78dVgCqP7PToxvp40FelOP",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b2732e617c3e5ef4e889437cbb7dab67616d0000b27371f37c2ddf5662e003cc99faab67616d0000b273cb771a440e59994e4ee687c9ab67616d0000b273e0829361e866082b5bd16e34",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b2732e617c3e5ef4e889437cbb7dab67616d0000b27371f37c2ddf5662e003cc99faab67616d0000b273cb771a440e59994e4ee687c9ab67616d0000b273e0829361e866082b5bd16e34",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b2732e617c3e5ef4e889437cbb7dab67616d0000b27371f37c2ddf5662e003cc99faab67616d0000b273cb771a440e59994e4ee687c9ab67616d0000b273e0829361e866082b5bd16e34",
+          "width": 60
+        }
+      ],
+      "name": "My BeatSaber Songs",
+      "owner": {
+        "display_name": "maubeend",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/maubeend"
+        },
+        "href": "https://api.spotify.com/v1/users/maubeend",
+        "id": "maubeend",
+        "type": "user",
+        "uri": "spotify:user:maubeend"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTAsMWNlZWM2NmFlYmIzZjUxZDQ3MGJhYzQyNDZhYjc1ZmZjMjYxZTRhNw==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/78dVgCqP7PToxvp40FelOP/tracks",
+        "total": 8
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:78dVgCqP7PToxvp40FelOP"
+    },
+    {
+      "collaborative": false,
+      "description": "A blend of music for maubeend, Tim, LisaB, bmm0124, and 4 others. Updates daily.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1EJLA9o7OM1Xib"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJLA9o7OM1Xib",
+      "id": "37i9dQZF1EJLA9o7OM1Xib",
+      "images": [
+        {
+          "height": null,
+          "url": "https://blend-playlist-covers.spotifycdn.com/group-blends-v1/group-blend-red-2-LARGE-en.jpg",
+          "width": null
+        }
+      ],
+      "name": "maubeend + 7 others",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "MCwwMDAwMDAwMDlhMTFjZDM5ZmY0N2M5ZTE2MTM0ZDMyZDJjZmYxYjNi",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EJLA9o7OM1Xib/tracks",
+        "total": 0
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1EJLA9o7OM1Xib"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/0DiU854dm0QCAThlDUrGSr"
+      },
+      "href": "https://api.spotify.com/v1/playlists/0DiU854dm0QCAThlDUrGSr",
+      "id": "0DiU854dm0QCAThlDUrGSr",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b2735c8cfe4b2c4aa89c9c92108eab67616d0000b27395696945285b5f317c6f8445ab67616d0000b273bef074de9ca825bddaeb9f46ab67616d0000b273dcef905cb144d4867119850b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b2735c8cfe4b2c4aa89c9c92108eab67616d0000b27395696945285b5f317c6f8445ab67616d0000b273bef074de9ca825bddaeb9f46ab67616d0000b273dcef905cb144d4867119850b",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b2735c8cfe4b2c4aa89c9c92108eab67616d0000b27395696945285b5f317c6f8445ab67616d0000b273bef074de9ca825bddaeb9f46ab67616d0000b273dcef905cb144d4867119850b",
+          "width": 60
+        }
+      ],
+      "name": "EDM Nostalgia ",
+      "owner": {
+        "display_name": "maubeend",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/maubeend"
+        },
+        "href": "https://api.spotify.com/v1/users/maubeend",
+        "id": "maubeend",
+        "type": "user",
+        "uri": "spotify:user:maubeend"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NDksZDgwZGNlYWIyZDkyZjAwM2RkOTJkY2RlZGNlYTlhNDBjMzlhY2E2Zg==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/0DiU854dm0QCAThlDUrGSr/tracks",
+        "total": 47
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:0DiU854dm0QCAThlDUrGSr"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6uvbCJ08vCAL95wkm90C0G"
+      },
+      "href": "https://api.spotify.com/v1/playlists/6uvbCJ08vCAL95wkm90C0G",
+      "id": "6uvbCJ08vCAL95wkm90C0G",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b273447efa80cb185be0fbbb9a4dab67616d0000b273c990dac05b4de8c7af5ff17dab67616d0000b273cb81eb3c1238c60f2bbfd3b5ab67616d0000b273f1157b7dcd21bae0c2c75d89",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b273447efa80cb185be0fbbb9a4dab67616d0000b273c990dac05b4de8c7af5ff17dab67616d0000b273cb81eb3c1238c60f2bbfd3b5ab67616d0000b273f1157b7dcd21bae0c2c75d89",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b273447efa80cb185be0fbbb9a4dab67616d0000b273c990dac05b4de8c7af5ff17dab67616d0000b273cb81eb3c1238c60f2bbfd3b5ab67616d0000b273f1157b7dcd21bae0c2c75d89",
+          "width": 60
+        }
+      ],
+      "name": "VSV Hitjeslijst",
+      "owner": {
+        "display_name": "Leanne van Dam",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/11168975738"
+        },
+        "href": "https://api.spotify.com/v1/users/11168975738",
+        "id": "11168975738",
+        "type": "user",
+        "uri": "spotify:user:11168975738"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "NTQsYmJhNTNjNGM3ZTZmMWJjMDZhM2JmZDBiNTFjN2Q5M2U2MTZjMzcxNA==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/6uvbCJ08vCAL95wkm90C0G/tracks",
+        "total": 48
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:6uvbCJ08vCAL95wkm90C0G"
+    },
+    {
+      "collaborative": true,
+      "description": ":)",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/2a209LE3P5Nagu483agrLv"
+      },
+      "href": "https://api.spotify.com/v1/playlists/2a209LE3P5Nagu483agrLv",
+      "id": "2a209LE3P5Nagu483agrLv",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b27319d85a472f328a6ed9b704cfab67616d0000b2734ae1c4c5c45aabe565499163ab67616d0000b2735b752bd7476346431a8d1e79ab67616d0000b273ebac402516ec355a0fb6d95b",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b27319d85a472f328a6ed9b704cfab67616d0000b2734ae1c4c5c45aabe565499163ab67616d0000b2735b752bd7476346431a8d1e79ab67616d0000b273ebac402516ec355a0fb6d95b",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b27319d85a472f328a6ed9b704cfab67616d0000b2734ae1c4c5c45aabe565499163ab67616d0000b2735b752bd7476346431a8d1e79ab67616d0000b273ebac402516ec355a0fb6d95b",
+          "width": 60
+        }
+      ],
+      "name": "Jozef's Children \ud83c\udf08\ud83c\udff3\ufe0f\u200d\ud83c\udf08",
+      "owner": {
+        "display_name": "Tim Hogenelst",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1125635956"
+        },
+        "href": "https://api.spotify.com/v1/users/1125635956",
+        "id": "1125635956",
+        "type": "user",
+        "uri": "spotify:user:1125635956"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "NTgsZWI1YjVjNjNhYTBhNzE4MjgzNGExMGZlMGFmMTgxOWNmZTRkNzc4MA==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/2a209LE3P5Nagu483agrLv/tracks",
+        "total": 105
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:2a209LE3P5Nagu483agrLv"
+    },
+    {
+      "collaborative": false,
+      "description": "Your weekly mixtape of fresh music. Enjoy new music and deep cuts picked for you. Updates every Monday.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZEVXcDwd2mXCIuJw"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcDwd2mXCIuJw",
+      "id": "37i9dQZEVXcDwd2mXCIuJw",
+      "images": [
+        {
+          "height": null,
+          "url": "https://newjams-images.scdn.co/image/ab676477000033ad/dt/v3/discover-weekly/aAbca4VNfzWuUCQ_FGiEFA==/bmVuZW5lbmVuZW5lbmVuZQ==",
+          "width": null
+        }
+      ],
+      "name": "Discover Weekly",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "MCwwMDAwMDAwMDFjMjlkMzkwNDM1YjUwODllNGM5MTcxNGM1ZDZlODc2",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZEVXcDwd2mXCIuJw/tracks",
+        "total": 30
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZEVXcDwd2mXCIuJw"
+    },
+    {
+      "collaborative": true,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/6tNSJ0p1ASMXjNyi6cn64C"
+      },
+      "href": "https://api.spotify.com/v1/playlists/6tNSJ0p1ASMXjNyi6cn64C",
+      "id": "6tNSJ0p1ASMXjNyi6cn64C",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b2730dee3c4d3000d8c7baecab99ab67616d0000b27319d85a472f328a6ed9b704cfab67616d0000b2734ae1c4c5c45aabe565499163ab67616d0000b2735b752bd7476346431a8d1e79",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b2730dee3c4d3000d8c7baecab99ab67616d0000b27319d85a472f328a6ed9b704cfab67616d0000b2734ae1c4c5c45aabe565499163ab67616d0000b2735b752bd7476346431a8d1e79",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b2730dee3c4d3000d8c7baecab99ab67616d0000b27319d85a472f328a6ed9b704cfab67616d0000b2734ae1c4c5c45aabe565499163ab67616d0000b2735b752bd7476346431a8d1e79",
+          "width": 60
+        }
+      ],
+      "name": "MauTi",
+      "owner": {
+        "display_name": "Tim Hogenelst",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/1125635956"
+        },
+        "href": "https://api.spotify.com/v1/users/1125635956",
+        "id": "1125635956",
+        "type": "user",
+        "uri": "spotify:user:1125635956"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "NzQsZmI4OWNlYTcwZjkyNzQ1ZWNhMDU2ZTVkMDQ0MGI5M2ExOWI5MWY2MA==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/6tNSJ0p1ASMXjNyi6cn64C/tracks",
+        "total": 62
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:6tNSJ0p1ASMXjNyi6cn64C"
+    },
+    {
+      "collaborative": false,
+      "description": "We made you a personalized playlist with songs to take you back in time.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1EuJaoP9Z2O8bY"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EuJaoP9Z2O8bY",
+      "id": "37i9dQZF1EuJaoP9Z2O8bY",
+      "images": [
+        {
+          "height": null,
+          "url": "https://daily-mix.scdn.co/covers/time-capsule/time-capsule-blue_LARGE-en.jpg",
+          "width": null
+        }
+      ],
+      "name": "Your Time Capsule",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "MTY1Njk3OTIwMCwwMDAwMDAwMDRjYmY2N2FmMzQ3YmI1YjNlZTYzNGViNzlkNzgxNzEz",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EuJaoP9Z2O8bY/tracks",
+        "total": 50
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1EuJaoP9Z2O8bY"
+    },
+    {
+      "collaborative": false,
+      "description": "Your past favorites",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/37i9dQZF1EpG9Ols9vr6pX"
+      },
+      "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EpG9Ols9vr6pX",
+      "id": "37i9dQZF1EpG9Ols9vr6pX",
+      "images": [
+        {
+          "height": null,
+          "url": "https://daily-mix.scdn.co/covers/backtracks/PZN_Repeat_Rewind2_LARGE-en.jpg",
+          "width": null
+        }
+      ],
+      "name": "Repeat Rewind",
+      "owner": {
+        "display_name": "Spotify",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/spotify"
+        },
+        "href": "https://api.spotify.com/v1/users/spotify",
+        "id": "spotify",
+        "type": "user",
+        "uri": "spotify:user:spotify"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "MTY1NjczMzAwNSwwMDAwMDAwMDg0Y2YwZjUwYTJjYTU1ZDIyYTMzYmQzMTVmYjk0NjY4",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/37i9dQZF1EpG9Ols9vr6pX/tracks",
+        "total": 30
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:37i9dQZF1EpG9Ols9vr6pX"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/0VMTaruuccKzI0PzVYuBEB"
+      },
+      "href": "https://api.spotify.com/v1/playlists/0VMTaruuccKzI0PzVYuBEB",
+      "id": "0VMTaruuccKzI0PzVYuBEB",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273203e4c6a048df02a21cdd813",
+          "width": 640
+        }
+      ],
+      "name": "MARINA \u2013 Electra Heart (Deluxe)",
+      "owner": {
+        "display_name": "maubeend",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/maubeend"
+        },
+        "href": "https://api.spotify.com/v1/users/maubeend",
+        "id": "maubeend",
+        "type": "user",
+        "uri": "spotify:user:maubeend"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "Miw3MTk3ZDBkZTRjMjQyMTU3OWE5MTcyMDc0OTI2MTE2NDliYzlhMjQ3",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/0VMTaruuccKzI0PzVYuBEB/tracks",
+        "total": 17
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:0VMTaruuccKzI0PzVYuBEB"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/0wsGtk8TPvXwjeLao5zHgR"
+      },
+      "href": "https://api.spotify.com/v1/playlists/0wsGtk8TPvXwjeLao5zHgR",
+      "id": "0wsGtk8TPvXwjeLao5zHgR",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b273502d648ada3474ab82c18f1dab67616d0000b2737158ec602fe6e8165cae6091ab67616d0000b273d1241debb8543af8322a7d6aab67616d0000b273f8fa082806184fcb032d8e0a",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b273502d648ada3474ab82c18f1dab67616d0000b2737158ec602fe6e8165cae6091ab67616d0000b273d1241debb8543af8322a7d6aab67616d0000b273f8fa082806184fcb032d8e0a",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b273502d648ada3474ab82c18f1dab67616d0000b2737158ec602fe6e8165cae6091ab67616d0000b273d1241debb8543af8322a7d6aab67616d0000b273f8fa082806184fcb032d8e0a",
+          "width": 60
+        }
+      ],
+      "name": "Game Hits",
+      "owner": {
+        "display_name": "maubeend",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/maubeend"
+        },
+        "href": "https://api.spotify.com/v1/users/maubeend",
+        "id": "maubeend",
+        "type": "user",
+        "uri": "spotify:user:maubeend"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "NywyMmIyM2RkN2I0NzA2MWYzNTM3ZWQ0ZWIxYzA5Y2IzMjUxYTc0NGI4",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/0wsGtk8TPvXwjeLao5zHgR/tracks",
+        "total": 5
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:0wsGtk8TPvXwjeLao5zHgR"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/5LtucpUgTtOSq8wYAZxWsw"
+      },
+      "href": "https://api.spotify.com/v1/playlists/5LtucpUgTtOSq8wYAZxWsw",
+      "id": "5LtucpUgTtOSq8wYAZxWsw",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b273aa8bc69a596fec635a91f1ed",
+          "width": 640
+        }
+      ],
+      "name": "Madison Beer \u2013 As She Pleases",
+      "owner": {
+        "display_name": "maubeend",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/maubeend"
+        },
+        "href": "https://api.spotify.com/v1/users/maubeend",
+        "id": "maubeend",
+        "type": "user",
+        "uri": "spotify:user:maubeend"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "Myw1ODVkZGVmNjExNDhiMmNhZGJiNjhmNTE4MjA3MzY2ZTBhOGIyY2Nm",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/5LtucpUgTtOSq8wYAZxWsw/tracks",
+        "total": 8
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:5LtucpUgTtOSq8wYAZxWsw"
+    },
+    {
+      "collaborative": false,
+      "description": "Meezingers van vroeger en nu. Iedereen kent de tekst en kan deze hits meezingen! Met nu de grootste meezingers en sing-a-long hits van o.a. Beyonc\u00e9, Rihanna, Dua Lipa, David Guetta en nog veel meer!",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/3ismULUbSO3WkcbV1D7jn8"
+      },
+      "href": "https://api.spotify.com/v1/playlists/3ismULUbSO3WkcbV1D7jn8",
+      "id": "3ismULUbSO3WkcbV1D7jn8",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebb2237f239898954fa6e5cac00",
+          "width": null
+        }
+      ],
+      "name": "Meezingers",
+      "owner": {
+        "display_name": "Topsify Benelux",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/playlistme.nl"
+        },
+        "href": "https://api.spotify.com/v1/users/playlistme.nl",
+        "id": "playlistme.nl",
+        "type": "user",
+        "uri": "spotify:user:playlistme.nl"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "NDk4NiwxOWZmN2Y3Y2I2YmQ1OTQ4YTY3ZTgxYTA1ZDc3YTZlYzViMmI2YTZl",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/3ismULUbSO3WkcbV1D7jn8/tracks",
+        "total": 170
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:3ismULUbSO3WkcbV1D7jn8"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/4vvnCMdXPjW5TberajPp1y"
+      },
+      "href": "https://api.spotify.com/v1/playlists/4vvnCMdXPjW5TberajPp1y",
+      "id": "4vvnCMdXPjW5TberajPp1y",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebbb11f94bb36264322dc093886",
+          "width": null
+        }
+      ],
+      "name": "Partylieder",
+      "owner": {
+        "display_name": "kretschmer.nele",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/kretschmer.nele"
+        },
+        "href": "https://api.spotify.com/v1/users/kretschmer.nele",
+        "id": "kretschmer.nele",
+        "type": "user",
+        "uri": "spotify:user:kretschmer.nele"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "OTgyLGUzMTRmNDY5YjJiNTI5OGQ4MTA5M2EyZTM2MDAwNjg3MWM3NTJhYWY=",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/4vvnCMdXPjW5TberajPp1y/tracks",
+        "total": 88
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:4vvnCMdXPjW5TberajPp1y"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/7vrorPXQpajPsWh8mXrEv8"
+      },
+      "href": "https://api.spotify.com/v1/playlists/7vrorPXQpajPsWh8mXrEv8",
+      "id": "7vrorPXQpajPsWh8mXrEv8",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b27304bfd5a5fd5aa6ca648f66aaab67616d0000b27367e400c9be79e6b0b0086880ab67616d0000b27382c80d6ec5b001d9ae49564dab67616d0000b273983a15dbbda621fd434754a3",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b27304bfd5a5fd5aa6ca648f66aaab67616d0000b27367e400c9be79e6b0b0086880ab67616d0000b27382c80d6ec5b001d9ae49564dab67616d0000b273983a15dbbda621fd434754a3",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b27304bfd5a5fd5aa6ca648f66aaab67616d0000b27367e400c9be79e6b0b0086880ab67616d0000b27382c80d6ec5b001d9ae49564dab67616d0000b273983a15dbbda621fd434754a3",
+          "width": 60
+        }
+      ],
+      "name": "Tha Real Stuff",
+      "owner": {
+        "display_name": "maubeend",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/maubeend"
+        },
+        "href": "https://api.spotify.com/v1/users/maubeend",
+        "id": "maubeend",
+        "type": "user",
+        "uri": "spotify:user:maubeend"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTY1LDhhOTIzMTdkNjViZjZmODQ5YjhlMWM0NTU2MDg5MzJhM2NjMmY3MjY=",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/7vrorPXQpajPsWh8mXrEv8/tracks",
+        "total": 53
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:7vrorPXQpajPsWh8mXrEv8"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/11NguNUg87KKFv1jdVPCoX"
+      },
+      "href": "https://api.spotify.com/v1/playlists/11NguNUg87KKFv1jdVPCoX",
+      "id": "11NguNUg87KKFv1jdVPCoX",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/993926c4220408f8477fbe6590e453344a5e65adab67616d0000b27381b6482fe5af5c2728967feaab67616d0000b2738d2cfad007b9431f48aef135ab67616d0000b273b37b9e04f4605435b5b3fc44",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/993926c4220408f8477fbe6590e453344a5e65adab67616d0000b27381b6482fe5af5c2728967feaab67616d0000b2738d2cfad007b9431f48aef135ab67616d0000b273b37b9e04f4605435b5b3fc44",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/993926c4220408f8477fbe6590e453344a5e65adab67616d0000b27381b6482fe5af5c2728967feaab67616d0000b2738d2cfad007b9431f48aef135ab67616d0000b273b37b9e04f4605435b5b3fc44",
+          "width": 60
+        }
+      ],
+      "name": "Good ol days",
+      "owner": {
+        "display_name": "maubeend",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/maubeend"
+        },
+        "href": "https://api.spotify.com/v1/users/maubeend",
+        "id": "maubeend",
+        "type": "user",
+        "uri": "spotify:user:maubeend"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MjQsYzA3YjRiNGU5Y2JkYzE1YTdmYmRhM2Q4NmZkMWM0MTczY2UzYWI5Zg==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/11NguNUg87KKFv1jdVPCoX/tracks",
+        "total": 23
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:11NguNUg87KKFv1jdVPCoX"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/4kFgZwSnO7Bb4YVhlbp1rj"
+      },
+      "href": "https://api.spotify.com/v1/playlists/4kFgZwSnO7Bb4YVhlbp1rj",
+      "id": "4kFgZwSnO7Bb4YVhlbp1rj",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b273428b65f827217fe824aaa2bdab67616d0000b2734a052b99c042dc15f933145bab67616d0000b273d4eba34bd4ccf2d51d25e21cab67616d0000b273db24e98f75215a3df9886be7",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b273428b65f827217fe824aaa2bdab67616d0000b2734a052b99c042dc15f933145bab67616d0000b273d4eba34bd4ccf2d51d25e21cab67616d0000b273db24e98f75215a3df9886be7",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b273428b65f827217fe824aaa2bdab67616d0000b2734a052b99c042dc15f933145bab67616d0000b273d4eba34bd4ccf2d51d25e21cab67616d0000b273db24e98f75215a3df9886be7",
+          "width": 60
+        }
+      ],
+      "name": "Meme music",
+      "owner": {
+        "display_name": "maubeend",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/maubeend"
+        },
+        "href": "https://api.spotify.com/v1/users/maubeend",
+        "id": "maubeend",
+        "type": "user",
+        "uri": "spotify:user:maubeend"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MjIsYTI3YjdjMDE3M2Q4YzM1Yjg5MmE5ZDY0NGRjY2QyYTYwOTYyNjA3Mw==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/4kFgZwSnO7Bb4YVhlbp1rj/tracks",
+        "total": 16
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:4kFgZwSnO7Bb4YVhlbp1rj"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/4oBrnLYuOTaNcVqfbTyr8A"
+      },
+      "href": "https://api.spotify.com/v1/playlists/4oBrnLYuOTaNcVqfbTyr8A",
+      "id": "4oBrnLYuOTaNcVqfbTyr8A",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebbfe959149c8c44a1f0809eeb2",
+          "width": null
+        }
+      ],
+      "name": "Cloudkid",
+      "owner": {
+        "display_name": "maubeend",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/maubeend"
+        },
+        "href": "https://api.spotify.com/v1/users/maubeend",
+        "id": "maubeend",
+        "type": "user",
+        "uri": "spotify:user:maubeend"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTUsOTNmYmZiMDYzZWZiODRlNzRhNDE5MjI0MWI2MzIyOTI0NTMyMGI1Ng==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/4oBrnLYuOTaNcVqfbTyr8A/tracks",
+        "total": 11
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:4oBrnLYuOTaNcVqfbTyr8A"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/7ISZa7z3koLPJReuUS5dLW"
+      },
+      "href": "https://api.spotify.com/v1/playlists/7ISZa7z3koLPJReuUS5dLW",
+      "id": "7ISZa7z3koLPJReuUS5dLW",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://i.scdn.co/image/ab67616d0000b2734ae1c4c5c45aabe565499163",
+          "width": 640
+        }
+      ],
+      "name": "Arctic Monkeys",
+      "owner": {
+        "display_name": "maubeend",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/maubeend"
+        },
+        "href": "https://api.spotify.com/v1/users/maubeend",
+        "id": "maubeend",
+        "type": "user",
+        "uri": "spotify:user:maubeend"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "NyxiNzMxYzZjYTJjODk3Y2ZmMzJiZjNlMjkwODg2NzUzY2JlMGY5NGY5",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/7ISZa7z3koLPJReuUS5dLW/tracks",
+        "total": 6
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:7ISZa7z3koLPJReuUS5dLW"
+    },
+    {
+      "collaborative": false,
+      "description": "",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/1RuyFt2yBHWPZj1GjdU2A5"
+      },
+      "href": "https://api.spotify.com/v1/playlists/1RuyFt2yBHWPZj1GjdU2A5",
+      "id": "1RuyFt2yBHWPZj1GjdU2A5",
+      "images": [
+        {
+          "height": 640,
+          "url": "https://mosaic.scdn.co/640/ab67616d0000b27301ec392dd41fd0df6e229c06ab67616d0000b273616450de17b5a6ecf625b37eab67616d0000b273c61b46cf682d7f0183fcb87cab67616d0000b273c7ec91ed46429c9a70351f6c",
+          "width": 640
+        },
+        {
+          "height": 300,
+          "url": "https://mosaic.scdn.co/300/ab67616d0000b27301ec392dd41fd0df6e229c06ab67616d0000b273616450de17b5a6ecf625b37eab67616d0000b273c61b46cf682d7f0183fcb87cab67616d0000b273c7ec91ed46429c9a70351f6c",
+          "width": 300
+        },
+        {
+          "height": 60,
+          "url": "https://mosaic.scdn.co/60/ab67616d0000b27301ec392dd41fd0df6e229c06ab67616d0000b273616450de17b5a6ecf625b37eab67616d0000b273c61b46cf682d7f0183fcb87cab67616d0000b273c7ec91ed46429c9a70351f6c",
+          "width": 60
+        }
+      ],
+      "name": "EDEN",
+      "owner": {
+        "display_name": "maubeend",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/maubeend"
+        },
+        "href": "https://api.spotify.com/v1/users/maubeend",
+        "id": "maubeend",
+        "type": "user",
+        "uri": "spotify:user:maubeend"
+      },
+      "primary_color": null,
+      "public": true,
+      "snapshot_id": "MTcsNTM1YzZiNjcwNjcwNWJiZmNkMjQxYzZhODgxNjhjN2QwMTRmMzNkYw==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/1RuyFt2yBHWPZj1GjdU2A5/tracks",
+        "total": 14
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:1RuyFt2yBHWPZj1GjdU2A5"
+    },
+    {
+      "collaborative": false,
+      "description": "Liederen die rond de steentijd zijn uitgebracht. Brood is voor mensen",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/2VJ6386b3Pfxi92FAHSRsu"
+      },
+      "href": "https://api.spotify.com/v1/playlists/2VJ6386b3Pfxi92FAHSRsu",
+      "id": "2VJ6386b3Pfxi92FAHSRsu",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebb2090f6f0c8577a2a53eca382",
+          "width": null
+        }
+      ],
+      "name": "Prehistorische liederen",
+      "owner": {
+        "display_name": "Steef",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/vvfunmy21bsctk1fbvkgcu36a"
+        },
+        "href": "https://api.spotify.com/v1/users/vvfunmy21bsctk1fbvkgcu36a",
+        "id": "vvfunmy21bsctk1fbvkgcu36a",
+        "type": "user",
+        "uri": "spotify:user:vvfunmy21bsctk1fbvkgcu36a"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "NTQsMGYxZjE3YTExNWQ4NDRlZWM4YzA0NWM1ZmZiMWViMTFmNmZjMzRmOQ==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/2VJ6386b3Pfxi92FAHSRsu/tracks",
+        "total": 89
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:2VJ6386b3Pfxi92FAHSRsu"
+    },
+    {
+      "collaborative": false,
+      "description": "Een verzameling van muzikale schijt geboren uit mijn obsessie van film, games en series. Alleen ik geniet hier van dus ga maar weg.",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/3E7dP6rEX9xb6DRXOYZUwS"
+      },
+      "href": "https://api.spotify.com/v1/playlists/3E7dP6rEX9xb6DRXOYZUwS",
+      "id": "3E7dP6rEX9xb6DRXOYZUwS",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebbfb4f9e7bc3f47e9fc5a112db",
+          "width": null
+        }
+      ],
+      "name": "It's all fun and games",
+      "owner": {
+        "display_name": "Steef",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/vvfunmy21bsctk1fbvkgcu36a"
+        },
+        "href": "https://api.spotify.com/v1/users/vvfunmy21bsctk1fbvkgcu36a",
+        "id": "vvfunmy21bsctk1fbvkgcu36a",
+        "type": "user",
+        "uri": "spotify:user:vvfunmy21bsctk1fbvkgcu36a"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "MTQsODMyNDA0NGRlMzdhZDZkMTY3MDBhZjIwMDdiMGZkZDI3NDE0NjdlZg==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/3E7dP6rEX9xb6DRXOYZUwS/tracks",
+        "total": 59
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:3E7dP6rEX9xb6DRXOYZUwS"
+    },
+    {
+      "collaborative": false,
+      "description": "12 jarige ik die doet alsof ze 43 pillen xtc heeft gevroten",
+      "external_urls": {
+        "spotify": "https://open.spotify.com/playlist/1WcRvuCX8f8WxNO8EPOko2"
+      },
+      "href": "https://api.spotify.com/v1/playlists/1WcRvuCX8f8WxNO8EPOko2",
+      "id": "1WcRvuCX8f8WxNO8EPOko2",
+      "images": [
+        {
+          "height": null,
+          "url": "https://i.scdn.co/image/ab67706c0000bebbbc78f83657074a9f85af4f11",
+          "width": null
+        }
+      ],
+      "name": "BIEM",
+      "owner": {
+        "display_name": "Steef",
+        "external_urls": {
+          "spotify": "https://open.spotify.com/user/vvfunmy21bsctk1fbvkgcu36a"
+        },
+        "href": "https://api.spotify.com/v1/users/vvfunmy21bsctk1fbvkgcu36a",
+        "id": "vvfunmy21bsctk1fbvkgcu36a",
+        "type": "user",
+        "uri": "spotify:user:vvfunmy21bsctk1fbvkgcu36a"
+      },
+      "primary_color": null,
+      "public": false,
+      "snapshot_id": "MTMsNjI4YjdjZGU5NzA4OWJiMzIzMmRiNDBiMTEzZDA2Y2E4MDNmM2JiOQ==",
+      "tracks": {
+        "href": "https://api.spotify.com/v1/playlists/1WcRvuCX8f8WxNO8EPOko2/tracks",
+        "total": 50
+      },
+      "type": "playlist",
+      "uri": "spotify:playlist:1WcRvuCX8f8WxNO8EPOko2"
+    }
+  ],
+  "limit": 50,
+  "next": null,
+  "offset": 0,
+  "previous": null,
+  "total": 32
+}
